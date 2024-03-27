@@ -1,0 +1,44 @@
+(CONVERSION TO ROMAN NUMERALS)
+(IN PUBLIC DOMAIN)
+(by lasermtv07, 2024)
+
+Listen to Lyon (in honor of one of the original authors of intercal)
+Cast Lyon
+
+While Lyon is as high as 1000
+Shout "m"
+Let Lyon be Lyon minus 1000
+
+While Lyon is as high as 500
+Shout "d"
+Let Lyon be Lyon minus 500
+
+While Lyon is as high as 100
+Shout "c"
+Let Lyon be Lyon minus 100
+
+While Lyon is as high as 50
+Shout "l"
+Let Lyon be Lyon minus 50
+
+While Lyon is as high as 10
+Shout "x"
+Let Lyon be Lyon minus 10
+
+If Lyon is 9
+Shout "i"
+Shout "x"
+Let Lyon be 0
+
+If Lyon is 4
+Shout "i"
+Shout "v"
+Let Lyon be 0
+
+While Lyon is as high as 5
+Shout "v"
+Let Lyon be Lyon minus 5
+
+While Lyon is higher than 0
+Shout "i"
+Let Lyon be Lyon minus 1
